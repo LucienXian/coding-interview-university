@@ -159,13 +159,13 @@
 
 ## 关于 Google
 
-- [ ] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [ ] Google 检索的原理：
-    - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
-    - [ ] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
-    - [ ] [Google 检索的原理](https://www.google.com/insidesearch/howsearchworks/)
-    - [ ] [Google 检索的原理 —— Matt Cutts（视频）](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-    - [ ] [Google 是如何改善其检索算法（视频）](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
+- [x] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+- [x] Google 检索的原理：
+    - [x] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
+    - [x] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
+    - [x] [Google 检索的原理](https://www.google.com/insidesearch/howsearchworks/)
+    - [x] [Google 检索的原理 —— Matt Cutts（视频）](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+    - [x] [Google 是如何改善其检索算法（视频）](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
 - [ ] 系列文章：
     - [ ] [Google 检索是如何处理移动设备](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
     - [ ] [Google 为了寻找大众需求的秘密研究](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
@@ -306,15 +306,15 @@
 
 ## 必备知识
 
-- [ ] **计算机是如何处理一段程序：**
-    - [ ] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [机器码指令（视频）](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [x] **计算机是如何处理一段程序：**
+    - [x] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [x] [机器码指令（视频）](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
-- [ ] **编译器**
-    - [ ] [编译器是如何在 ~1 分钟内工作（视频）](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
-    - [ ] [Hardvard CS50 —— 编译器（视频）](https://www.youtube.com/watch?v=CSZLNYF4Klo)
-    - [ ] [C++（视频）](https://www.youtube.com/watch?v=twodd1KFfGk)
-    - [ ] [掌握编译器的优化（C++）（视频）](https://www.youtube.com/watch?v=FnGCDLhaxKU)
+- [x] **编译器**
+    - [x] [编译器是如何在 ~1 分钟内工作（视频）](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
+    - [x] [Hardvard CS50 —— 编译器（视频）](https://www.youtube.com/watch?v=CSZLNYF4Klo)
+    - [x] [C++（视频）](https://www.youtube.com/watch?v=twodd1KFfGk)
+    - [x] [掌握编译器的优化（C++）（视频）](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
 - [ ] **浮点数是如何存储的：**
     - [ ] 简单的 8-bit：[浮点数的表达形式　—— 1（视频 —— 在计算上有一个错误 —— 详情请查看视频的介绍）](https://www.youtube.com/watch?v=ji3SfClm8TU)
@@ -1272,10 +1272,10 @@
 
     *****************************************************************************************************
     *****************************************************************************************************
-
+    
     下面的内容都是可选的。这些是我的推荐，不是 Google 的。
     通过学习这些内容，你将会得到更多的有关 CS 的概念，并将为所有的软件工程工作做更好的准备。
-
+    
     *****************************************************************************************************
     *****************************************************************************************************
 
